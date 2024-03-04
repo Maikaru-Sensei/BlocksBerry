@@ -1,5 +1,6 @@
-# <img src="https://raw.githubusercontent.com/consensys/quorum/master/logo.png" width="200" height="35"/>
+# <img src="https://github.com/Maikaru-Sensei/Raspereum/assets/23616275/6c36369f-2367-420f-9ff1-c62dfd62fb40" width="200" height="200"/>
 
+# Raspereum - Private Ethereum Blockchains for Raspberry PI's
 Raspereum is an Ethereum-based distributed protocol for private blockchains running on Raspberry PI's.
 Deploy and manage private Ethereum blockchains in seconds.
 
